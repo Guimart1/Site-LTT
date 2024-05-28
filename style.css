@@ -1,0 +1,30 @@
+
+@font-face {
+    font-family: fontedoida;
+    src: url(./fonts/BenguiatITCbyBT-Book.otf);
+}
+header{
+    height: 7vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #B5C5FF;
+}
+header a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 1.3em;
+}
+.boxGeral{
+    height: 93vh;
+    font-family: fontedoida;
+    background-color: #D2DCFF;
+}
+.boxGeral h1{
+    color: #D0A933;
+    font-size: 5em;
+    text-shadow: 0px 0px 12px rgba(10, 4, 3, 0.178);
+    
+}
